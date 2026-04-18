@@ -226,7 +226,7 @@ int main()
                 printf("Densidade Demográfica da Carta 2: %.2f hab/km²\n", DensidadeP2);
                 printf("### Empatou! ###\n");
             }
-        break;
+        break; 
         default:
             printf("Opção inválida, reinicie o jogo e escolha outra opção!");
             
